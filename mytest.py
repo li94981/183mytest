@@ -16,3 +16,5 @@ def index6(request):
     print('my seven test')
 def index8(request):
     print('this is a test')
+def index9(request):
+    print('this is a test for ssh')
