@@ -6,3 +6,5 @@ def index2(request):
     print('my third test')
 def index3(request):
     print('my fourth test')
+def index(request):
+    print('my five test')
