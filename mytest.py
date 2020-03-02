@@ -10,3 +10,8 @@ def index4(request):
     print('my five test')
 def index(request):
     print('my eight test')
+def index5(request):
+    print('my six test')
+def index6(request):
+    print('my seven test')
+
